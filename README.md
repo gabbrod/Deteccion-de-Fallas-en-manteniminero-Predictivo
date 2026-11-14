@@ -55,6 +55,6 @@ Se utiliza el dataset [Machine Predictive Maintenance Classification](https://ww
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Google Colab, GitHub.
 
 ## Enlaces
-- **Códigos:** [Notebooks](Notebooks/)
+- **Códigos:** [Notebooks](notebooks/)
 - **Video:** 
 - **Repositorio:** https://github.com/gabbrod/Deteccion-de-Fallas-en-manteniminero-Predictivo
