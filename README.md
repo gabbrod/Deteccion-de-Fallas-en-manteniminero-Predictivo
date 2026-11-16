@@ -56,5 +56,5 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Google Colab, GitHub.
 
 ## Enlaces
 - **Códigos:** [Notebooks](notebooks/)
-- **Video:** 
+- **Video:** https://youtu.be/-cYSMpMDKcY?si=tsYxVGbpIRMXM0kX
 - **Repositorio:** https://github.com/gabbrod/Deteccion-de-Fallas-en-manteniminero-Predictivo
